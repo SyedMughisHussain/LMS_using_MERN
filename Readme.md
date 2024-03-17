@@ -8,7 +8,6 @@ Welcome to our Learning Management System (LMS) project built using the MERN sta
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -27,11 +26,20 @@ Our Learning Management System (LMS) is designed to provide a comprehensive plat
 - **Interactive Dashboard**: Visualize course statistics and user progress through a dynamic dashboard.
 - **Responsive Design**: A responsive and intuitive user interface for seamless access across devices.
 
-## Installation
+## Usage
 
-To run this project locally, follow these steps:
+Once the application is running, you can:
 
-1. Clone the repository:
+- Register as a new user or log in if you already have an account.
+- Explore available courses and enroll in them.
+- Access the admin panel by logging in with admin credentials.
+- Create, edit, or delete courses.
+- Manage users and their roles.
 
-```bash
-git clone https://github.com/your-username/lms-project.git
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request. Feel free to open an issue if you encounter any bugs or have suggestions for improvements.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
